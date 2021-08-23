@@ -1,0 +1,11 @@
+[   
+  { 
+    "idProduct": 1,
+    "nomeProduct": "Arroz",
+    "quantProduct": 1.0,
+    "tipoProduct": "kg",
+    "tipoPorductID": 1,
+    "medidaProduct": "Alimentos",
+    "medidaProductID": 0
+  }
+]
